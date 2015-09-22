@@ -6,7 +6,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{39C75F5D-2CAD-4694-B233-7E9D1C23274F}</ProjectGuid>
+    <ProjectGuid>{0DFA3BD7-9A70-409D-8A7F-8C20F2BAED8F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Atrico.Lib.Dimensions.Tests</RootNamespace>
